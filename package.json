@@ -1,0 +1,11 @@
+{
+  "name": "multiroom_chat",
+  "version": "1.0.0",
+  "description": "chat do curso udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davidson Morais",
+  "license": "ISC"
+}

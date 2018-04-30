@@ -1,0 +1,10 @@
+consign v0.1.6 Initialized in D:\Particular\Project\CURSO_NODE
++ .\app\routes\admin.js
++ .\app\routes\home.js
++ .\app\routes\noticia.js
++ .\config\dbConnection.js
++ .\app\models\NoticiasDAO.js
++ .\app\controllers\admin.js
++ .\app\controllers\home.js
++ .\app\controllers\noticia.js
+Server ON
